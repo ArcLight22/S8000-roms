@@ -19,8 +19,8 @@
 | cpu_34-0718-03a.u77               | 3.0/3.0(8 users) | f2341d8e | 574e6d1dd4e5211c0c83cad21e6e1b53810c699b |
 | hpcpu_34-1117-00_v10.1_common.19e | 10.1             | a77055c8 | f1268c6b163f9e4151d425ccc2f5cb4c9c0af8c8 |
 | hpcpu_34-1119-00_v10.1_16user.21e | 10.1             | 610e8b0c | bc804e09cf6905c9f0ccc502a15c98841ee4b087 |
-| mwdc2_34-0726-00a.u162            | 1?               | ce73c522 | 89cb7e78c600dc75609d8eaf1d794a076cdb375d |
-| mwdc2_34-0727-00a.u163            | 1?               | ca6d28a9 | dcef61e67815c527cecabe7b06344137a80118e5 |
+| mwdc_34-0726-00a.u162             | 1?               | ce73c522 | 89cb7e78c600dc75609d8eaf1d794a076cdb375d |
+| mwdc_34-0727-00a.u163             | 1?               | ca6d28a9 | dcef61e67815c527cecabe7b06344137a80118e5 |
 | tcc_34-0607-01a.u97               | 1?               | 106a23a2 | 3b615f9b9ddac6685ff79f0676249c30f1fbaad4 |
 | tcc_34-0608-01a.u96               | 1?               | ebc69875 | 1cd3cb1121e01440487165da753932812dada8bf |
 | wdc_34-0611-00a.u27               | 1?               | a79f7fce | 61245410079e1a3b94d03d8cf77ba643fb897bdd |
